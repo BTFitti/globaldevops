@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug\\net6.0",
+    "\\Controllers",
+    "\\Models",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Models\\Radar.cs",
+  "PreviewInSolutionExplorer": false
+}
